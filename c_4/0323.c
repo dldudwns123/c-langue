@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-
+```c
 int main()
 {
     double x, y, result;
